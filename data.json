@@ -1,0 +1,122 @@
+[
+  {
+    "id": "drp",
+    "title": "Drop",
+    "details": {
+      "description": "Multipage website with blog which illustrates the work and services of Drop srl",
+      "summary": "Brand Website"
+    },
+    "date": "April 2022",
+    "roles": [
+      "Maintainer",
+      "Front-End Web Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": "https://www.drop.it/"
+      }
+    ]
+  },
+  {
+    "id": "oamc",
+    "title": "OAMC",
+    "details": {
+      "description": "E-commerce website of the OAMC fashion brand with blog and landing pages",
+      "summary": "E-commerce Website"
+    },
+    "date": "Jul 2022",
+    "roles": [
+      "Maintainer",
+      "Front-End Web Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": "https://oamc.com"
+      }
+    ]
+  },
+  {
+    "id": "keyc",
+    "title": "Keycense",
+    "details": {
+      "description": "A complete multi-platform marketplace for the sale of software and video-games.",
+      "summary": "Marketplace"
+    },
+    "date": "Feb 2023",
+    "roles": [
+      "Maintainer",
+      "Front-End Web Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": "https://www.keycense.com/"
+      }
+    ]
+  },
+  {
+    "id": "pct",
+    "title": "Paciotti",
+    "details": {
+      "description": "E-commerce website of the Paciotti fashion brand",
+      "summary": "E-commerce Website"
+    },
+    "date": "Jan 2023",
+    "roles": [
+      "UI/UX Designer",
+      "Front-End Web Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": "https://www.paciotti.com/"
+      }
+    ]
+  },
+  {
+    "id": "slam",
+    "title": "SLAM",
+    "details": {
+      "description": "E-commerce website of the SLAM brand for the naval technical clothing sector",
+      "summary": "E-commerce Website"
+    },
+    "date": "Apr 2023",
+    "roles": [
+      "UI/UX Analysis",
+      "Front-End Web Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": "https://www.slam.com/"
+      }
+    ]
+  },
+  {
+    "id": "v1",
+    "title": "Portfolio 2021-2022",
+    "details": {
+      "description": "My personal portfolio website with a full showcase of my old projects.",
+      "summary": "Personal Portfolio"
+    },
+    "date": "May 2021",
+    "roles": [
+      "UI/UX Designer",
+      "Full-Stack Web Developer"
+    ],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": "https://devfolio-1.web.app/"
+      }
+    ]
+  }
+]
